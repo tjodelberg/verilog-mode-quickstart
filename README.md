@@ -12,12 +12,16 @@ You cand install these manually or use this git repo. All of this is already con
 
 **Quick start:**
   1. Get Vundle: 
-  `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+  ```
+  git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+  ```
   2. Clone this repo: 
-  `git clone https://github.com/tjodelberg/verilog-mode-quickstart ~/verilog-mode-quickstart`
+  ```
+  git clone https://github.com/tjodelberg/verilog-mode-quickstart ~/verilog-mode-quickstart`
+  ```
   3. Copy or rename `.vimrc_example` and move into your home directory. Either copy `cp .vimrc_example ~/.vimrc` if you do not have one, or  paste the contents into your own `~/.vimrc` if you already have one.
-  4. Open your `.vimrc` in vim and type `:PluginInstall`. This is the Vundle command to install the plugins. 
-  5. Copy the `elisp` directory into your home directory: `cp -r elisp ~/`. This contains the emacs verilog-mode plugin.
+  4. Copy the `elisp` directory into your home directory: `cp -r elisp ~/`. This contains the emacs verilog-mode plugin.
+  5. Open your `.vimrc` in vim and type `:PluginInstall`. This is the Vundle command to install the plugins. 
   6. Look at the `README` in the verilog_examples for how to run an example.
 
 **How does it work?**
