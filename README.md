@@ -19,7 +19,12 @@ All of this is already configured in the `.vimrc_example` and the `elisp` folder
   6. Look at the `README` in the verilog_examples for how to run an example.
 
 **How does it work?**
-Vim does not have a "verilog-mode", but we can hack it to use the emacs "verilog-mode" commands in the background. You do not need to know how to use emacs for this to work. Only the autogeneration is ported from emacs to vim, not all verilog-mode features.
+Vim does not have a "verilog-mode", but we can hack it to use the emacs "verilog-mode" commands in the background. You do not need to know emacs for this to work. Only the autogeneration is ported from emacs to vim, not all verilog-mode features.
+
+**Links**
+Vundle: https://github.com/VundleVim/Vundle.vim
+Verilog-Mode-Vim-Plugin: https://www.vim.org/scripts/script.php?script_id=1875
+Verilog-Mode-Emacs-Features: https://www.veripool.org/wiki/verilog-mode
 
 
 
