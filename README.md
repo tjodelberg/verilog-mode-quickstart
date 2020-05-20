@@ -25,8 +25,11 @@ Vim does not have a "verilog-mode", but we can hack it to use the emacs "verilog
 **Helpful Links**
 
 Vundle: https://github.com/VundleVim/Vundle.vim
+
 Verilog-Mode-Vim-Plugin: https://www.vim.org/scripts/script.php?script_id=1875
+
 Verilog-Mode-Emacs-Features: https://www.veripool.org/wiki/verilog-mode
+
 
 
 
