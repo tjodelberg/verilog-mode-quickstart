@@ -20,7 +20,7 @@ You cand install these manually or use this git repo. All of this is already con
 
 **How does it work?**
 
-Vim does not have a "verilog-mode", but we can hack it to use the emacs "verilog-mode" commands in the background. You do not need to know emacs for this to work. Only the autogeneration is ported from emacs to vim, not all verilog-mode features.
+Vim does not have a "verilog-mode", but we can hack it to use the emacs "verilog-mode" commands in the background. You do not need to know emacs for this to work.
 
 **Helpful Links**
 
