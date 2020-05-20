@@ -8,7 +8,7 @@ All the configuration files to setup verilog-mode for vim with an example testbe
   3. Verilog-mode plugin for Emacs.
   4. Verilog-mode plugin for Vim.
 
-You cand install these manually if youd like, or optionally use this git repo. All of this is already configured in the `.vimrc_example` and the `elisp` folder included here.
+You cand install these manually if youd like or use this git repo. All of this is already configured in the `.vimrc_example` and the `elisp` folder included here.
 
 **Quick start:**
   1. Get Vundle by running this command: `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
