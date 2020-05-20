@@ -5,9 +5,8 @@ All the configuration files to setup verilog-mode for vim with an example testbe
 
 **What you need to run verilog-mode for vim.**
   1. Vim plugin manager. I use Vundle. (Optional but helpful)
-  2. Emacs
-  3. Verilog-mode plugin for Emacs.
-  4. Verilog-mode plugin for Vim.
+  2. Verilog-mode plugin for Emacs.
+  3. Verilog-mode plugin for Vim.
 
 You can install these manually or clone this git repo with all the configured files.
 
