@@ -8,7 +8,7 @@ What you need to run verilog-mode for vim.
   3. Verilog-mode plugin for Emacs.
   4. Verilog-mode plugin for Vim.
 
-All of this is already configured for you in .vimrc_example and the elisp folder included in this repo.
+All of this is already configured in the .vimrc_example and the elisp folder included in this repo.
 
 Quick start:
 
