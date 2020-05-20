@@ -2,6 +2,14 @@
 
 All the configuration files to setup verilog-mode for vim with an example testbench.
 
+**What you need to run verilog-mode for vim.**
+  1. Vim plugin manager. I use Vundle. (Optional but helpful)
+  2. Emacs
+  3. Verilog-mode plugin for Emacs.
+  4. Verilog-mode plugin for Vim.
+
+All of this is already configured in the `.vimrc_example` and the `elisp` folder included in this repo.
+
 **Quick start:**
   1. Get Vundle by running this command: `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
   2. Clone this repo to your home directry: `git clone https://github.com/tjodelberg/verilog-mode-quickstart ~/`
@@ -13,13 +21,7 @@ All the configuration files to setup verilog-mode for vim with an example testbe
 **How does it work?**
 Vim does not have a "verilog-mode", but we can hack it to use the emacs "verilog-mode" commands in the background. You do not need to know how to use emacs for this to work. Only the autogeneration is ported from emacs to vim, not all verilog-mode features.
 
-What you need to run verilog-mode for vim. 
-  1. Vim plugin manager. I use Vundle. (Optional but helpful)
-  2. Emacs
-  3. Verilog-mode plugin for Emacs.
-  4. Verilog-mode plugin for Vim.
 
-All of this is already configured in the `.vimrc_example` and the `elisp` folder included in this repo.
 
 
 
