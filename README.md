@@ -4,6 +4,7 @@ All the configuration files to setup verilog-mode for vim with an example testbe
 
 **Quick start:**
   1. Get Vundle by running this command: `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+  2. Cone this repo to your home directry. `git clone https://github.com/tjodelberg/verilog-mode-quickstart ~/`
   1. Copy or rename the `.vimrc_example`. This file has the configuration for Vundle and the plugin for vim-verilog-mode. Either rename this file as `.vimrc` if you do not have one, or copy and paste the contents into your own `.vimrc`. Make sure it is in your home directory `~/.vimrc`
   2. Open your .vimrc and type :PluginInstall. This is the Vundle command to install the plugins. Save and quit.
   3. The `elisp` directory contains the verilog-mode plugin for emacs already decompressed. Make sure this is in your home directory `~./elisp`
