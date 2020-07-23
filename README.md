@@ -17,7 +17,7 @@ You can install these manually or clone this git repo with all the configured fi
   ```
   2. Clone this repo: 
   ```
-  git clone https://github.com/tjodelberg/verilog-mode-quickstart ~/verilog-mode-quickstart`
+  git clone https://github.com/tjodelberg/verilog-mode-quickstart ~/verilog-mode-quickstart
   ```
   3. Copy or rename `.vimrc_example` and move into your home directory. Either copy `cp .vimrc_example ~/.vimrc` if you do not have one, or  paste the contents into your own `~/.vimrc` if you already have one.
   4. Copy the `elisp` directory into your home directory: `cp -r elisp ~/`. This contains the emacs verilog-mode plugin.
